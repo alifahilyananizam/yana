@@ -1,2 +1,0 @@
-# yana
-individual assignments 
